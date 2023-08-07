@@ -1,0 +1,13 @@
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+   /*  margin-top: 5%; */
+   text-align: center;
+   background-color: aqua;
+}
+
+.imagen-carousel{
+    width: 300px;
+    margin-left: 30%;
+    
+}
